@@ -4,6 +4,8 @@ This work is part of the 'Epidemic Modelling in Refugee and IDP settlements' pro
 
 In this repository we analyse the results of a community survey run by the UNHCR Community Based Protect (CBP) team in the Cox's Bazar refugee settlement in Bangladesh. The survey was designed to be able to help extract information about contact patterns in the settlement and provide a resource to researchers modelling and anlaysing such settlements in the future.
 
+The data from the survey can be found [here](https://microdata.unhcr.org/index.php/catalog/587).
+
 The `Analyse community survey` notebook shows the outputs of the initial anlaysis of the survey.
 
 # Attendence Rates
